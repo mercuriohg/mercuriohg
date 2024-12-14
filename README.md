@@ -1,6 +1,4 @@
 
-
-## Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul 📚
  
 <h1 align="center">💻 Olá! Eu sou o Arthur Gomes Severo 📚</h1>
 <p align="center">
