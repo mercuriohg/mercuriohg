@@ -14,8 +14,8 @@
 ## 📊 Meus dados
 <p align="center">
   <a href = "https://beacons.ai/mercuriohg">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=mercuriohg&show_icons=true&theme=dracula">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&langs_count=16&theme=dracula">
+  <img height="170em" src = "https://github-readme-stats.vercel.app/api?username=mercuriohg&show_icons=true&theme=dracula">
+  <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&langs_count=16&theme=dracula">
 </p>
 
 <div>
