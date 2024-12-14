@@ -13,6 +13,6 @@
 
 ## 📊 Meus dados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&theme=blue-green">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&langs_count=16&theme=dracula">
 </p>
 
