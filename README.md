@@ -1,8 +1,9 @@
-## Hi there 👋
+## Olá!! Eu sou o Arthur Gomes 👋
 
-<!--
-**mercuriohg/mercuriohg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+--
+## Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul 📚
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
