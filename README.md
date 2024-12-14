@@ -16,3 +16,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&langs_count=16&theme=dracula">
 </p>
 
+<div>
+ <a href = "https://www.instagram.com/arthursg14/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</div>
