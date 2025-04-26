@@ -8,10 +8,14 @@
 <p align="center">
   <strong>🏫 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul</strong><br>
   <strong>👨‍💻 Estou indo para o terceiro ano do curso técnico em informática integrado ao ensino médio em 2025 (3/4)</strong><br>
+
+## 🖥️ Linguagens Utilizadas
+<div align="center">
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
           
           
                     
@@ -26,6 +30,7 @@
   <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&langs_count=16&theme=dracula">
 </p>
 
+## 📱 Social
 <div>
   <p align="center">
   <a href = "https://www.instagram.com/arthursg14/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
