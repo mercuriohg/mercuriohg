@@ -9,7 +9,7 @@
   <strong>🏫 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul</strong><br>
   <strong>👨‍💻 Estou indo para o terceiro ano do curso técnico em informática integrado ao ensino médio em 2025 (3/4)</strong><br>
 
-## 🖥️ Linguagens Utilizadas
+## 🖥️ Tecnologias Utilizadas
 <div align="center">
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
