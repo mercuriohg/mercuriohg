@@ -46,7 +46,7 @@
 
 <div align="center">
 <p>
- “O conhecimento é a arma mais poderosa contra a opressão.”
+ <strong>“O conhecimento é a arma mais poderosa contra a opressão.”</strong>
 </p>
  
 </div>
