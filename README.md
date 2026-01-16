@@ -31,12 +31,6 @@
 </p>
 
 
-## 📊 Meus Dados
-<p align="center">
-  <a href = "https://beacons.ai/mercuriohg">
-  <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mercuriohg&layout=compact&langs_count=16&theme=dracula">
-</p>
-
 ## 📱 Social
 <div>
   <p align="center">
