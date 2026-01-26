@@ -1,13 +1,10 @@
 
  
 <h1 align="center">💻 Olá! Eu sou o Arthur Gomes Severo 📚</h1>
-<p align="center">
-  <img src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png" height="150px">
-</p>
 
 <p align="center">
-  <strong>🏫 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul</strong><br>
-  <strong>👨‍💻 Estou indo para o terceiro ano do curso técnico em informática integrado ao ensino médio em 2025 (3/4)</strong><br>
+ Sou estudante do curso técnico em informártica no <strong>IFRS Campus Rolante</strong>. Futuro desenvolvedor Full-Stack, estou no momento estudando a base do front-end, sem nenhum framework, ainda. Tenho experiência em Python, Java e JavaScript. Focando no futuro e no estudo base que isso pode me proporcionar.
+</p>
 
 ## 🖥️ Linguagens de Programação
 <div align="center">
