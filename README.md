@@ -8,7 +8,7 @@
 
 ## 🖥️ Linguagens de Programação
 <div align="center">
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="40em" src="https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
 </div>
